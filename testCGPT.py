@@ -1,0 +1,1 @@
+# sample code to create palindrom 
